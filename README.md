@@ -1,2 +1,2 @@
 # Recipe-Spot
-A place for recipe collaboration
+_A place for recipe collaboration_
